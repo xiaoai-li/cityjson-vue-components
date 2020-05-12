@@ -68,6 +68,16 @@ https://www.cityjson.org/specs/1.0.1/#texture-object
 https://pypi.org/project/cjio/  
 
 
-### How to run things locally
-https://threejs.org/docs/#manual/en/introduction/How-to-run-things-locally 
+# todo
+[] this.poly_index  for tempalte data 
+[] so many cases of textures.. ... 
+[] texture toggle
+[x] remove unessesary materials
 
+
+perfprmance 
+rail
+179.8   100
+
+rotterdam
+66.9    66.9
